@@ -5,7 +5,7 @@ About Me 👋
   "role": "Junior Web Developer, Content Manager ,Graphic Designer(in progess)",
   "stack": ["HTML", "CSS", "PHP", "WORDPRESS(content only)"],
   "experience": "28+ web projects",
-  "focus": "Backend & Web Development, "
+  "focus": "Backend & Web Development & Graphic Design, "
 }
 ```
 
