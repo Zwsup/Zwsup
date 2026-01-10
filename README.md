@@ -1,23 +1,11 @@
-Hello
+About Me 👋
 ```json
 {
   "name": "Kemal Arda Girgin",
-  "title": "Junior Developer, Content Manager",
-  "focus": ["Web Development", "Backend"],
-  "skills": ["HTML", "CSS", "PHP", "C#", "C++", "WordPress"],
-  "experience": {
-    "internship": "Penta Yazılım",
-    "projects": "28+ web projects (content management, bug tracking, module configuration)"
-  }
-  "education": [
-    "Computer Science - Vocational High School",
-    "Computer Programming - Atatürk University (Open Education)"
-  ],
-  "languages": {
-    "Turkish": "Advanced",
-    "English": "Intermediate"
-  },
-  "goal": "Grow as a software developer through project-based experience"
+  "role": "Junior Web Developer, Content Manager ,Graphic Designer(in progess)",
+  "stack": ["HTML", "CSS", "PHP", "WORDPRESS(content only)"],
+  "experience": "28+ web projects",
+  "focus": "Backend & Web Development, "
 }
 ```
 
