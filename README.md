@@ -2,10 +2,10 @@ About Me 👋
 ```json
 {
   "name": "Kemal Arda Girgin",
-  "role": "Junior Web Developer, Content Manager ,Graphic Designer(in progess)",
+  "role": "Junior Web Developer",
   "stack": ["HTML", "CSS", "PHP", "WORDPRESS(content only)"],
   "experience": "28+ web projects",
-  "focus": "Backend & Web Development & Graphic Design, "
+  "focus": "Backend & Frontend & Web Development "
 }
 ```
 
