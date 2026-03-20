@@ -3,7 +3,7 @@ About Me 👋
 {
   "name": "Kemal Arda Girgin",
   "role": "Junior Web Developer",
-  "stack": ["HTML", "CSS", "JAVASCRİPT", "GİT"],
+  "stack": ["HTML", "CSS", "JAVASCRIPT", "GIT"],
   "experience": "28+ web projects",
   "focus": "Frontend & Backend & Web Development "
 }
