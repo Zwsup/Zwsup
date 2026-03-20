@@ -3,9 +3,9 @@ About Me 👋
 {
   "name": "Kemal Arda Girgin",
   "role": "Junior Web Developer",
-  "stack": ["HTML", "CSS", "PHP", "WORDPRESS(content only)"],
+  "stack": ["HTML", "CSS", "JAVASCRİPT", "GİT"],
   "experience": "28+ web projects",
-  "focus": "Backend & Frontend & Web Development "
+  "focus": "Frontend & Backend & Web Development "
 }
 ```
 
