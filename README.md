@@ -2,7 +2,7 @@ About Me 👋
 ```json
 {
   "name": "Kemal Arda Girgin",
-  "role": "Junior Web Developer",
+  "role": "Junior Software Developer",
   "stack": ["HTML", "CSS", "JAVASCRIPT", "GIT"],
   "experience": "28+ web projects",
   "focus": "Frontend & Backend & Web Development "
