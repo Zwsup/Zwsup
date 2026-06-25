@@ -2,10 +2,10 @@ About Me 👋
 ```json
 {
   "name": "Kemal Arda Girgin",
-  "role": "Junior Software Developer",
+  "role": "IT Support | Networking | Cyber Security Learner",
   "stack": ["PYTHON", "NETWORKING", "HTML", "CSS" , "JAVASCRIPT" , "GIT"],
   "experience": "28+ web projects",
-  "focus": "Frontend & Backend & Web Development "
+  "focus": "Data Analyst, Python, IT support, Networking, Servers "
 }
 ```
 
